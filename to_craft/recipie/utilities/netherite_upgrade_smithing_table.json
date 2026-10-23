@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "base": "minecraft:diamond_spear",
+  "addition": "minecraft:netherite_ingot",
+  "category": "equipment",
+  "pattern": [
+    "DAD",
+    "DND",
+    "DDD"
+  ],
+  "key": {
+    "D": "minecraft:diamond",
+    "N": "minecraft:netherrack",
+    "A": "netherite_scrap"
+  },
+  "result": {
+    "id": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

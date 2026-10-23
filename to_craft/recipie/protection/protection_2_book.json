@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "NON",
+    "GBG",
+    "NIN"
+  ],
+  "key": {
+    "B": "minecraft:book",
+    "O": "minecraft:gold_ingot",
+    "G": "minecraft:glowstone",
+    "I": "minecraft:iron_ingot",
+    "N": "minecraft:netherrack"
+  },
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "count": 1,
+    "components": {
+      "minecraft:stored_enchantments": {
+        "minecraft:protection": 2
+      }
+    }
+  }
+}

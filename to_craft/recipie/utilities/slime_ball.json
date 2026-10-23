@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:bamboo",
+      "minecraft:stick"
+    ],
+    "minecraft:lime_dye",
+    "minecraft:water_bucket"
+  ],
+  "result": {
+    "id": "minecraft:slime_ball"
+  }
+}
